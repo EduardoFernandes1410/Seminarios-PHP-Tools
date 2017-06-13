@@ -10,7 +10,7 @@ Esse seminários tem como objetivo apresentar aos colegas de turma as ferramenta
 
 - Gerenciador de Dependências ([Composer](https://getcomposer.org/)) -> **Ananda, Carol e Clarisse**
 - Debugging ([PHP Debug Bar](http://phpdebugbar.com/))
-- Bibliotecas de Teste ([PHPUnit](https://phpunit.de/))
+- Bibliotecas de Teste ([PHPUnit](https://phpunit.de/)) -> **Victor, Raul e Francisco**
 - Mockup de dados ([Faker](https://github.com/fzaninotto/Faker)) -> **Gustavo, Eduardo e Lucas Macedo**
 - Ambientes virtuais de desenvolvimento ([Vagrant](https://www.vagrantup.com/)) -> **Lucas Paulo, Arthur e Ping**
 
