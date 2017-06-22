@@ -1,0 +1,28 @@
+***INSTALAR O FAKER***
+-> Baixar o repositório do Faker no GitHub;
+
+***USAR O FAKER***
+-> Importar o arquivo 'autoload.php' no seu código PHP, que se encontra dentro da pasta 'src' da pasta do repositório do Faker;
+
+->Criar instância do Faker;
+
+->Acessar atributos da instância do Faker referentes à função que deseja;
+
+- Vide 'index.php';
+
+
+***FAKER CLT (Command Line Tool)***
+-> Baixar e instalar com os comandos:
+	-> $ wget https://github.com/bit3/faker-cli/releases/download/1.4/faker.phar
+	-> $ chmod 777 faker.phar
+	
+-> Usar
+	-> Nome: $ ./faker.phar name
+	-> So on
+	
+-> Extensa lista de parâmetros:
+	-> https://github.com/bit3/faker-cli
+	
+
+***VÍDEO TUTORIAL***
+-> https://www.youtube.com/watch?v=sSDh1zfz-5s
