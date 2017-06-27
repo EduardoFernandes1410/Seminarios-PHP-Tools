@@ -18,11 +18,6 @@
 	
 -> Usar
 	-> Nome: $ ./faker.phar name
-	-> So on
 	
--> Extensa lista de parâmetros:
-	-> https://github.com/bit3/faker-cli
-	
-
-***VÍDEO TUTORIAL***
--> https://www.youtube.com/watch?v=sSDh1zfz-5s
+	-> Extensa lista de parâmetros:
+		-> https://github.com/bit3/faker-cli

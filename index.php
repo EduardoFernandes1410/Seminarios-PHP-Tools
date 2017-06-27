@@ -9,16 +9,5 @@
 	echo "Nome: " . $faker->name . "<br>";
 	//Gera um endereco
 	echo "Endereco: " . $faker->address . "<br>";
-	//Gera um endereco
+	//Gera um texto qualquer
 	echo "Texto: " . $faker->text . "<br>";
-	//Gera um endereco
-	/*echo "Endereco: " . $faker->address . "<br>";
-	//Gera um endereco
-	echo "Endereco: " . $faker->address . "<br>";
-	//Gera um endereco
-	echo "Endereco: " . $faker->address . "<br>";
-	//Gera um endereco
-	echo "Endereco: " . $faker->address . "<br>";
-	//Gera um endereco
-	echo "Endereco: " . $faker->address . "<br>";*/
-?>
