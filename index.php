@@ -11,3 +11,4 @@
 	echo "Endereco: " . $faker->address . "<br>";
 	//Gera um texto qualquer
 	echo "Texto: " . $faker->text . "<br>";
+?>
